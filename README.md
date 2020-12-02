@@ -14,6 +14,10 @@ As stated above, this is a Sample website with plenty of files for demos
 
 This is a sample web project, deployment can be any local server
 
+## How to contribute
+
+Please fork this repo and issue PR for review
+
 ## Copyright
 
 2020 Git.Training.
