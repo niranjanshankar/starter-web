@@ -13,3 +13,7 @@ As stated above, this is a Sample website with plenty of files for demos
 ## Deployment
 
 This is a sample web project, deployment can be any local server
+
+## Copyright
+
+2020 Git.Training.
